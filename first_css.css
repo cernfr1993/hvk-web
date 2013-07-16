@@ -1,0 +1,33 @@
+h1 {
+    font-family: Arial;
+    color: brown;
+    background-color: rgb(240,240,240);}
+
+p b {
+    color: black;}
+   
+.par{
+    font-family: CourierNew;
+    color: brown;
+    padding-left: 50px;
+    border-width: 5px;}
+    
+
+body {background-color: rgb(220,200,200);}
+
+.roky {
+    float: right;
+    padding-right: 50px;
+    list-style-image: url("Check.png");}
+
+.img {
+    weight: 100px;
+    height: 100px;
+    padding-lef: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+}
+    
+#img_series {
+    padding-left: 50px;
+    padding-top: 20px;}
